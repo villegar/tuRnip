@@ -1,15 +1,14 @@
 Package: turnipeR
-Title: What the Package Does (One Line, Title Case)
+Title: Animal Crossing New Horizons Turnip Prices Tracker
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Roberto",
+           family = "Villegas-Diaz",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
+           email = "villegas.roberto@hotmail.com",
+           comment = c(ORCID = "0000-0001-5036-8661"))
 Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to
-    pick a license
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
