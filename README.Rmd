@@ -14,12 +14,12 @@ knitr::opts_chunk$set(
 
 # tuRnip <img src="inst/images/logo.png" alt="logo" align="right" height=200px/>
 
-tuRnip: Animal Crossing New Horizons Turnip Price Predictor 
+tuRnip: Animal Crossing New Horizons Turnip Prices Tracker
 
 <!-- badges: start -->
-`r badger::badge_devel("special-uor/ageR", "yellow")`
-`r badger::badge_github_actions("special-uor/ageR")`
-`r badger::badge_cran_release("ageR", "black")`
+`r badger::badge_devel("villegar/tuRnip", "yellow")`
+`r badger::badge_github_actions("villegar/tuRnip")`
+`r badger::badge_cran_release("tuRnip", "black")`
 <!-- badges: end -->
 
 The goal of tuRnip is to ...
@@ -36,7 +36,7 @@ And the development version from [GitHub](https://github.com/) with:
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("villegar/turnipeR")
+devtools::install_github("villegar/tuRnip")
 ```
 
 ## Example
