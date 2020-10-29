@@ -12,7 +12,7 @@ knitr::opts_chunk$set(
 )
 ```
 
-# tuRnip <img src="inst/images/logo.png" alt="logo" align="right" height=200px/>
+# tuRnip <img src="https://raw.githubusercontent.com/villegar/tuRnip/main/inst/images/logo.png" alt="logo" align="right" height=200px/>
 
 tuRnip: Animal Crossing New Horizons Turnip Prices Tracker
 

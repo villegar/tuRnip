@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# tuRnip <img src="inst/images/logo.png" alt="logo" align="right" height=200px/>
+# tuRnip <img src="https://raw.githubusercontent.com/villegar/tuRnip/main/inst/images/logo.png" alt="logo" align="right" height=200px/>
 
 tuRnip: Animal Crossing New Horizons Turnip Prices Tracker
 
