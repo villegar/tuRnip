@@ -18,10 +18,9 @@ column names.}
 Tibble structure with raw data.
 }
 \description{
-Load raw data from CSV file. This file should have either two or three
-columns:
+Load raw data from CSV file. This file should have two columns:
 \enumerate{
-\item \code{datetime} - \code{price}
-\item \code{date} - \code{time} - \code{price}
+\item \code{datetime}: Formatted as \code{yyyy-MM-dd HH:mm}.
+\item \code{price}: Integer.
 }
 }
