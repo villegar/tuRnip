@@ -7,7 +7,7 @@ Authors@R:
            role = c("aut", "cre"),
            email = "villegas.roberto@hotmail.com",
            comment = c(ORCID = "0000-0001-5036-8661"))
-Description: What the package does (one paragraph).
+Description: Tracks turnip prices in Animal Crossing New Horizons.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
@@ -15,4 +15,8 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.1
 Imports: 
     here,
+    lattice,
     readr
+Suggests:
+    badger,
+    hexSticker
